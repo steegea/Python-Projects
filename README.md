@@ -10,14 +10,14 @@ I am currently taking two Python courses on **Udemy**:
 I have created some apps as part of the courses listed above. More information can be found in the respective **branches** associated with each app.
 
 ### The Python Mega-Course
-* **English Dictionary**
+* ![**English Dictionary**](https://github.com/steegea/English-Dictionary.git)
   * Lets a user search the supplied **JSON** dictionary to check if a word exists or not
 
-* **Web Map**
+* ![**Web Map**](https://github.com/steegea/Python-Web-Map.git)
   * Creates a map that displays population and volcano data. Users have the choice to view as many layers (i.e. population, volcanoes) as they want
   
 ### The Complete Python Course
-* **Book Storage System**
+* ![**Book Storage System**](https://github.com/steegea/Book-Storage-System.git)
 
   * Allows users to:
     * Enter book details (i.e. title and author)
