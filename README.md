@@ -11,7 +11,7 @@ I have created some apps as part of the courses listed above. More information c
 
 ### The Python Mega-Course
 * **English Dictionary**
-  * Lets a user search the supplied JSON dictionary to check if a word exists or not
+  * Lets a user search the supplied **JSON** dictionary to check if a word exists or not
 
 * **Web Map**
   * Creates a map that displays population and volcano data. Users have the choice to view as many layers (i.e. population, volcanoes) as they want
@@ -25,5 +25,5 @@ I have created some apps as part of the courses listed above. More information c
     * Mark a book as read
     * Delete a specific book
     
-These operations are supported by a MySQL database.
+These operations are supported by a **MySQL** database.
 
