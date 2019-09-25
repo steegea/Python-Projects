@@ -7,7 +7,7 @@ I am currently taking two Python courses on **Udemy**:
 
 # Python Projects
 
-I have created some apps as part of the courses listed above. More information can be found in the respective **branches** associated with each app.
+I have created some apps as part of the courses listed above. More information can be found in the respective app **repositories**. The links are included below.
 
 ### The Python Mega-Course
 * ![**English Dictionary**](https://github.com/steegea/English-Dictionary.git)
