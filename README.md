@@ -25,5 +25,4 @@ I have created some apps as part of the courses listed above. More information c
     * Mark a book as read
     * Delete a specific book
     
-These operations are supported by a **MySQL** database.
 
