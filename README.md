@@ -17,7 +17,7 @@ I have created some apps as part of the courses listed above. More information c
   * Creates a map that displays population and volcano data. Users have the choice to view as many layers (i.e. population, volcanoes) as they want
   
 ### The Complete Python Course
-* ![**Book Storage System**](https://github.com/steegea/Book-Storage-System.git)
+* ![**Bookworm City**](https://github.com/steegea/Bookworm-City.git)
 
   * Allows users to:
     * Enter book details (i.e. title and author)
