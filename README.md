@@ -1,6 +1,6 @@
 # Python Courses
 
-I am currently taking two Python courses on **Udemy**:
+I am taking two Python courses on **Udemy**. They are ongoing:
 
 * The Python Mega-Course: Build 10 Real-World Applications
 * The Complete Python Course: Learn Python By Doing
