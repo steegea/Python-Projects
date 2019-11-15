@@ -9,6 +9,8 @@ I am taking two Python courses on **Udemy**. They are ongoing:
 
 I have created some apps as part of the courses listed above. More information can be found in the respective app **repositories**. The links are included below.
 
+**Subject to change as I get closer to finishing these courses.**
+
 ### The Python Mega-Course
 * ![**English Dictionary**](https://github.com/steegea/English-Dictionary.git)
   * Lets a user search the supplied **JSON** dictionary to check if a word exists or not
